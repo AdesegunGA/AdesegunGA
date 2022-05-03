@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdesegunGA
-- 👀 I’m interested in UI/UX Design 
-- 🌱 I’m currently learning UI/UX Designing
-- 💞️ I’m looking to collaborate on UI/UX, Frontend and Backend
+- 👀 I’m interested in Software Developmemt
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on DevOps and Frontend 
 - 📫 How to reach me adesegungeorgeadebowale@gmail.com
 
 <!---
